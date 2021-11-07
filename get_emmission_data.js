@@ -1,4 +1,4 @@
-const base_url_corbonmonoxide = 'https://api.v2.emissions-api.org' + '/api/v2/carbonmonoxide/statistics.json' + '?interval=day&begin=2019-02-01&end=2019-02-02&point=';
+const base_url_corbonmonoxide = 'https://api.v2.emissions-api.org' + '/api/v2/carbonmonoxide/statistics.json' + '?interval=day&begin=2019-02-01&end=2020-02-02&point=';
 const table = document.getElementById('highscore_carbonmonoxide');
 const New_York = '74.0060,40.7128',
 Tokyo ='139.6503,35.6762',
