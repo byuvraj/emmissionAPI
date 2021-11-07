@@ -1,6 +1,6 @@
 # emmissionAPI
 
-## Demonstration of use of emmissionAPI and the Promise functionality.
+## Demonstration of use of emmissionAPI and the Promise functionality provided by JavaScript.
 
 This website lets you know about the carbonmonoxide and nitrogen oxide emmision of the cities mentioned
 # You can use it as template and not final project
